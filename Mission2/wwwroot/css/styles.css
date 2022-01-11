@@ -1,0 +1,13 @@
+﻿.formClass {
+    width: 500px;
+    margin: auto;
+    border: solid 2px black;
+}
+
+.txtCenter {
+    text-align: center;
+}
+
+.backgroundColor {
+    background-color: burlywood;
+}
